@@ -1,6 +1,6 @@
 ﻿# Alx_Capstone_E_Commerce_API_Project
  
- **Django Rest Framework:** Utilized DRF for building scalable and maintainable APIs with serializers and viewsets.
+ **Django Rest Framework:** Utilized DRF for building scalable and maintainable End-Points with serializers and viewsets.
 
 **CRUD Operations**: Implemented Create, Read, Update, and Delete functionalities for users and products.
 
